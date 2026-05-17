@@ -98,7 +98,7 @@
 <h2>🔗 Полезные ссылки</h2>
 
 <ul>
-  <li>🌐 <strong>Наш Telegram канал</strong> – <a href="https://t.me/proxy_gem777">https://dsc.gg/proxygem</a></li>
+  <li>🌐 <strong>Наш Telegram канал</strong> – <a href="https://t.me/proxy_gem777">https://t.me/proxy_gem777</a></li>
   <li>💖 <strong>Поддержать автора</strong> – <a href="https://slava20222014-create.github.io/supportproxygem/">https://slava20222014-create.github.io/supportproxygem/</a></li>
 </ul>
 
