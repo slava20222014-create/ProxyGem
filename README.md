@@ -92,13 +92,13 @@
 > [!CAUTION]
 >
 > ### ФЕЙКИ
-> Я не веду никакие другие страницы/группы в телеграм/ютуб каналы - только мой офицальный Discord Server который вы сможете найти в полезных ссылках!  
+> Я не веду никакие другие страницы/группы в телеграм/ютуб каналы - только мой офицальный Telegram канал который вы сможете найти в полезных ссылках!  
 > Если вы наткнулись на что-то вне этой страницы гитхаба, что распространяется от моего лица - **ФЕЙК**.
 
 <h2>🔗 Полезные ссылки</h2>
 
 <ul>
-  <li>🌐 <strong>Наш Discord сервер</strong> – <a href="https://dsc.gg/proxygem">https://dsc.gg/proxygem</a></li>
+  <li>🌐 <strong>Наш Telegram канал</strong> – <a href="https://t.me/proxy_gem777">https://dsc.gg/proxygem</a></li>
   <li>💖 <strong>Поддержать автора</strong> – <a href="https://slava20222014-create.github.io/supportproxygem/">https://slava20222014-create.github.io/supportproxygem/</a></li>
 </ul>
 
