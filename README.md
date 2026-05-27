@@ -55,7 +55,7 @@
   </li>
   <li>
     <img width="46" height="46" alt="Telegram" src="https://github.com/user-attachments/assets/c1b4e2f6-7fa3-4e18-98bb-6947376c8266" />
-    <strong>Telegram (Скоро)</strong>
+    <strong>Telegram (Новый!)</strong>
   </li>
   <li>
     <img width="46" height="46" alt="Whatsapp" src="https://github.com/user-attachments/assets/0c84e2eb-b1fe-4a19-84f0-d450a8051b37" />
