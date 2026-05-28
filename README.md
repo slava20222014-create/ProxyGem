@@ -73,7 +73,7 @@
 <h2>📦 Установка</h2>
 
 <ol>
-  <li>Скачайте <strong><code>ProxyGemSetup.exe</code></strong> из раздела <strong>Assets</strong> ниже</li>
+  <li>Скачайте <strong><code>ProxyGemSetup.exe</code></strong> из раздела <strong>Assets в Release</strong> ниже</li>
   <li>Откройте скачанный файл и установите программу и обязательно поставьте галочку на "Создание ярлыка"<strong></strong></li>
   <li><strong>Запусти ярлык на рабочем столе<strong><code>ProxyGem</code></strong></strong></li>
   <li><strong>Выбирай сервер</strong> и запускай</li>
