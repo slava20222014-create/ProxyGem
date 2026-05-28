@@ -73,10 +73,9 @@
 <h2>📦 Установка</h2>
 
 <ol>
-  <li>Скачайте <strong><code>ProxyGem.zip/rar</code></strong> из раздела <strong>Assets</strong> ниже</li>
-  <li>Откройте скачанный файл и папку из него перекиньте в удобное для вас место <strong></strong></li>
-  <li><strong>Запусти <strong><code>install.bat</code></strong> в папке программы а как установится закрой</strong></li>
-  <li>Запускай через <strong>ярлык на рабочем столе</strong></li>
+  <li>Скачайте <strong><code>ProxyGemSetup.exe</code></strong> из раздела <strong>Assets</strong> ниже</li>
+  <li>Откройте скачанный файл и установите программу и обязательно поставьте галочку на "Создание ярлыка"<strong></strong></li>
+  <li><strong>Запусти ярлык на рабочем столе<strong><code>ProxyGem</code></strong></strong></li>
   <li><strong>Выбирай сервер</strong> и запускай</li>
   <li>И <strong>наслаждайся</strong> работой сервисов так, как они работали <strong>до блокировки</strong></li>
 </ol>
